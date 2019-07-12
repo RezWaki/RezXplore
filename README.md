@@ -1,10 +1,10 @@
 # RezXplore
 Simple exploring program created just for fun, maybe ill do later some fixes/updates.
 # Functionality
-[b]Exploring directories[/b]
+* Exploring directories
 
-[b]Different tags for files/directories[/b]
+* Different tags for files/directories
 
-[b]File/directory creation date[/b]
+* File/directory creation date
 
-[b]Copy/delete file[/b]
+* Copy/delete file
